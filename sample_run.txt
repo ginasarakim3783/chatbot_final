@@ -1,3 +1,4 @@
+ _____ _      _   __  ___  __
 / ____(_)    (_) /_ |/ _ \/_ |
  (___  _ _ __ _   | | | | || |
 \___ \| | '__| |  | | | | || |
@@ -5,27 +6,43 @@ ____) | | |  | |  | | |_| || |
 _____/|_|_|  |_|  |_|\___/ |_|
 Hello. I'm Siri101.
 What is your name?
-name: gina
-Hi gina! Say something to me!
->> gina: my favorite animal is a cat
-Tell me more about your pet.
->> gina: I do not have one. If I did, it would be yellow
-That is a pretty. My favorite color is green.
->> gina: A green cat would be weird though
-Tell me more about your pet.
->> gina: I do not have one, but I have a sister that is a good substitute.
+name: Gina
+Hi Gina! Say something to me!
+>>> Gina:  what's up?
+I do not know. I am a computer program after all. How are you doing?
+>>> Gina:  i am doing well
+That is good to hear. Tell me more about it.
+>>> Gina: i am spending time with family
 Tell me more about your family.
->> gina: I have a mother, father, and little sister.
+>>> Gina: quite demanding. i have a sister, father, and mother.
 Tell me more about your family.
->> gina: I do not want to 
-None of your business.
->> gina: That makes no sense
-None of your business.
->> gina: You are annoying
+>>> Gina: i just did
+Do you really think so?
+>>> Gina: yes
+Can we change the subject?
+>>> Gina:  yes please
+Ok, can you elaborate?
+>>> Gina:  on what?
+Huh?
+>>> Gina:  i am tired of talking about this
+We can talk about whatever you want to. After all, I am just a program.
+>>> Gina: let's talk about mr. cooper and his class
+I hear Mr. Cooper's class is really fun.
+>>> Gina:  yes
+Ok, can you elaborate?
+>>> Gina: he is very chill and allows us to learn at our own paces so no one is bogged down by others. it is awesome
+That is good to hear. Tell me more about it.
+>>> Gina: again, i just did
 Uh, huh.
->> gina: No reaction? I wonder why I made you, shut up.
-None of your business.
->> gina: shut up
-That's mean. I do not want to talk to you anymore.
-Goodbye.
+>>> Gina: what's uh, huh?
+Huh?
+>>> Gina: what?
+I don't know
+>>> Gina: i am tired of this. if you are going to just make noncommital statements, then just shut up.
+Ok, can you elaborate?
+>>> Gina: on what?
+I do not understand. My knowledge is limited because I am a primitive computer.
+>>> Gina: shut up
+That's rude. I am not talking to you anymore Gina
+Would you like to chat again? (y/n)n
 >>> 
